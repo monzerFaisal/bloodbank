@@ -1,0 +1,17 @@
+.contain{
+    background-color: gray;
+    border-radius: 50px;
+    width:500px;
+    height: 300px;
+    margin-left:325px;
+    margin-top:150px;
+}
+.admin{
+    background-color: blue;
+    border-radius: 50px;
+    width:200px;
+    height: 150px;
+    margin-left:290px;
+   
+    
+}
